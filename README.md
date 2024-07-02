@@ -15,7 +15,8 @@ Contrary to prevalent tracking algorithms, which output Track ID, our MultiMap a
 # Usage
 
 ```sh
-python count.py --tracking-method strongsort --source video.mp4 --yolo-weights trained_best.pt --reid-weights osnet_x0_25_msmt17.pt --classes 0 1```sh
+python count.py --tracking-method strongsort --source video.mp4 --yolo-weights trained_best.pt --reid-weights osnet_x0_25_msmt17.pt --classes 0 1
+```
 
 ## If you find our code helpful for your research, please cite
 
