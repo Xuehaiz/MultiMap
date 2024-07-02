@@ -12,6 +12,12 @@ Contrary to prevalent tracking algorithms, which output Track ID, our MultiMap a
 
 # Requirements
 
+```
+conda create -n yolo_counter python=3.8
+conda activate yolo_counter
+python -m pip install -r /path/to/requirements.txt
+```
+
 # Usage
 
 ```sh
