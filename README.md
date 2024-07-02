@@ -20,6 +20,7 @@ python count.py --tracking-method strongsort --source video.mp4 --yolo-weights t
 
 ## If you find our code helpful for your research, please cite
 
+```
 @article{zhou2024advancing,
   title={Advancing tracking-by-detection with MultiMap: Towards occlusion-resilient online multiclass strawberry counting},
   author={Zhou, Xuehai and Zhang, Yuyang and Jiang, Xintong and Riaz, Kashif and Rosenbaum, Phil and Lefsrud, Mark and Sun, Shangpeng},
@@ -27,5 +28,6 @@ python count.py --tracking-method strongsort --source video.mp4 --yolo-weights t
   year={2024},
   publisher={Elsevier}
 }
+```
 
 Please contact me ([xuehai.zhou@mail.mcgill.ca](mailto:xuehai.zhou@mail.mcgill.ca)) if you have any questions!
