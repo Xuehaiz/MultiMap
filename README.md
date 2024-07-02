@@ -6,5 +6,13 @@ An online multi-object counting method based on [YOLO](https://github.com/ultral
 
 Contrary to prevalent tracking algorithms, which output Track ID, our MultiMap algorithm maps each Track ID to a counting indicator based on the object class, and writes them to frames.
 
-# Source code is coming soon ...
+# Pipeline
+
+# Requirements
+
+# Usage
+
+```sh
+python count.py --tracking-method strongsort --source video.mp4 --yolo-weights trained_best.pt --reid-weights osnet_x0_25_msmt17.pt --classes 0 1 
+\```
 
