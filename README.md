@@ -8,7 +8,7 @@ Contrary to prevalent tracking algorithms, which output Track ID, our MultiMap a
 
 # Pipeline
 
-![Pipeline](https://github.com/Xuehaiz/MultiMap/blob/main/assets/images/pipeline.pdf)
+![Pipeline](https://github.com/Xuehaiz/MultiMap/blob/main/assets/images/pipeline.jpg)
 
 # Requirements
 
