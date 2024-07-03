@@ -10,7 +10,7 @@ Contrary to prevalent tracking algorithms, which output Track ID, our MultiMap a
 
 ![Pipeline](https://github.com/Xuehaiz/MultiMap/blob/main/assets/images/pipeline.jpg)
 
-# Requirements
+# Environment
 
 ```
 conda create -n yolo_counter python=3.8
